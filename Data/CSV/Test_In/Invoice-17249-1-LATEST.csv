@@ -1,0 +1,8 @@
+PDF_Header,PDF_key,Key_type
+,Invoice,table
+,Due,table
+,Customer,table
+,Invoice,table
+top,Line,table
+bottom,KL-Test7,table
+right,Amount(Net),table
